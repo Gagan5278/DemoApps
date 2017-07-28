@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:AppOne"
+      name = "AppOne">
+      <Group
+         location = "group:AppOne"
+         name = "AppOne">
+         <FileRef
+            location = "group:AppDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:AppOne.xcdatamodeld">
+         </FileRef>
+         <Group
+            location = "group:Assets.xcassets"
+            name = "Assets.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.storyboard">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Controller"
+            name = "Controller">
+            <FileRef
+               location = "group:TableViewController.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ViewController.swift">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Helper"
+            name = "Helper">
+            <FileRef
+               location = "group:AlertHandler.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Constants.swift">
+            </FileRef>
+            <FileRef
+               location = "group:CustomExtensions.swift">
+            </FileRef>
+            <FileRef
+               location = "group:TouchAuthenticationHelper.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <Group
+            location = "group:Model"
+            name = "Model">
+            <FileRef
+               location = "group:DataSource.swift">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:View"
+            name = "View">
+            <FileRef
+               location = "group:CustomTableCell.swift">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:ViewController"
+            name = "ViewController">
+         </Group>
+      </Group>
+      <FileRef
+         location = "group:AppOne.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:AppOneTests"
+         name = "AppOneTests">
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:TableViewTest.swift">
+         </FileRef>
+         <FileRef
+            location = "group:TouchAuthentication+FileTest.swift">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:TwitterDemo"
+      name = "TwitterDemo">
+      <Group
+         location = "group:TwitterDemo"
+         name = "TwitterDemo">
+         <FileRef
+            location = "group:AppDelegate.swift">
+         </FileRef>
+         <Group
+            location = "group:Assets.xcassets"
+            name = "Assets.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+            <Group
+               location = "group:twittersquarelogo.imageset"
+               name = "twittersquarelogo.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:twittersquarelogo.png">
+               </FileRef>
+               <FileRef
+                  location = "group:twittersquarelogo@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:twittersquarelogo@3x.png">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.storyboard">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Controller"
+            name = "Controller">
+            <FileRef
+               location = "group:TouchViewController.swift">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Helper"
+            name = "Helper">
+            <FileRef
+               location = "group:AlertHandler.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Constants.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Element.swift">
+            </FileRef>
+            <FileRef
+               location = "group:TouchAuthenticationHelper.swift">
+            </FileRef>
+            <FileRef
+               location = "group:TwitterHttpRequest.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <Group
+            location = "group:Model"
+            name = "Model">
+            <FileRef
+               location = "group:NotificationOperation.swift">
+            </FileRef>
+            <FileRef
+               location = "group:TwitterUser+CoreDataClass.swift">
+            </FileRef>
+            <FileRef
+               location = "group:TwitterUser+CoreDataProperties.swift">
+            </FileRef>
+            <FileRef
+               location = "group:TwitterViewControllerExtenstion.swift">
+            </FileRef>
+            <FileRef
+               location = "group:UserImages+CoreDataClass.swift">
+            </FileRef>
+            <FileRef
+               location = "group:UserImages+CoreDataProperties.swift">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Twitter"
+            name = "Twitter">
+         </Group>
+         <FileRef
+            location = "group:TwitterDemo.xcdatamodeld">
+         </FileRef>
+         <FileRef
+            location = "group:TwitterViewController.swift">
+         </FileRef>
+         <Group
+            location = "group:View"
+            name = "View">
+            <FileRef
+               location = "group:CustomTableViewCell.swift">
+            </FileRef>
+         </Group>
+      </Group>
+      <FileRef
+         location = "group:TwitterDemo.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:TwitterDemoTests"
+         name = "TwitterDemoTests">
+         <FileRef
+            location = "group:CoreDataStackClass.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:TableViewTest.swift">
+         </FileRef>
+         <FileRef
+            location = "group:TestServiceCall.swift">
+         </FileRef>
+         <FileRef
+            location = "group:TouchViewTest.swift">
+         </FileRef>
+         <FileRef
+            location = "group:TwitterUserTest.swift">
+         </FileRef>
+         <FileRef
+            location = "group:XCTestCase+CoreData.swift">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>
