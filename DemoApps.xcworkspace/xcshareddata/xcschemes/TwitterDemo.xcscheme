@@ -17,7 +17,7 @@
                BlueprintIdentifier = "80C591801F04DC9A0021386C"
                BuildableName = "TwitterDemo.app"
                BlueprintName = "TwitterDemo"
-               ReferencedContainer = "container:TwitterDemo.xcodeproj">
+               ReferencedContainer = "container:TwitterDemo/TwitterDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -36,7 +36,7 @@
                BlueprintIdentifier = "80C591971F04DC9A0021386C"
                BuildableName = "TwitterDemoTests.xctest"
                BlueprintName = "TwitterDemoTests"
-               ReferencedContainer = "container:TwitterDemo.xcodeproj">
+               ReferencedContainer = "container:TwitterDemo/TwitterDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -46,7 +46,7 @@
             BlueprintIdentifier = "80C591801F04DC9A0021386C"
             BuildableName = "TwitterDemo.app"
             BlueprintName = "TwitterDemo"
-            ReferencedContainer = "container:TwitterDemo.xcodeproj">
+            ReferencedContainer = "container:TwitterDemo/TwitterDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -70,7 +70,7 @@
             BlueprintIdentifier = "80C591801F04DC9A0021386C"
             BuildableName = "TwitterDemo.app"
             BlueprintName = "TwitterDemo"
-            ReferencedContainer = "container:TwitterDemo.xcodeproj">
+            ReferencedContainer = "container:TwitterDemo/TwitterDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -89,7 +89,7 @@
             BlueprintIdentifier = "80C591801F04DC9A0021386C"
             BuildableName = "TwitterDemo.app"
             BlueprintName = "TwitterDemo"
-            ReferencedContainer = "container:TwitterDemo.xcodeproj">
+            ReferencedContainer = "container:TwitterDemo/TwitterDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
