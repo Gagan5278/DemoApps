@@ -17,7 +17,7 @@
                BlueprintIdentifier = "80AF39351F02811A00391608"
                BuildableName = "AppOne.app"
                BlueprintName = "AppOne"
-               ReferencedContainer = "container:AppOne.xcodeproj">
+               ReferencedContainer = "container:AppOne/AppOne.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -36,7 +36,7 @@
                BlueprintIdentifier = "80AF394C1F02811B00391608"
                BuildableName = "AppOneTests.xctest"
                BlueprintName = "AppOneTests"
-               ReferencedContainer = "container:AppOne.xcodeproj">
+               ReferencedContainer = "container:AppOne/AppOne.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -46,7 +46,7 @@
             BlueprintIdentifier = "80AF39351F02811A00391608"
             BuildableName = "AppOne.app"
             BlueprintName = "AppOne"
-            ReferencedContainer = "container:AppOne.xcodeproj">
+            ReferencedContainer = "container:AppOne/AppOne.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -70,7 +70,7 @@
             BlueprintIdentifier = "80AF39351F02811A00391608"
             BuildableName = "AppOne.app"
             BlueprintName = "AppOne"
-            ReferencedContainer = "container:AppOne.xcodeproj">
+            ReferencedContainer = "container:AppOne/AppOne.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -89,7 +89,7 @@
             BlueprintIdentifier = "80AF39351F02811A00391608"
             BuildableName = "AppOne.app"
             BlueprintName = "AppOne"
-            ReferencedContainer = "container:AppOne.xcodeproj">
+            ReferencedContainer = "container:AppOne/AppOne.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
